@@ -5,13 +5,9 @@ name: Test
 
 on:
   push:
-    branches:
-      - beta
-      - main
+    branches: [beta, main]
   pull_request:
-    branches:
-      - beta
-      - main
+    branches: [beta, main]
 
 jobs:
   build:
