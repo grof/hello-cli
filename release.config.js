@@ -38,8 +38,9 @@ module.exports = {
         assets: ['CHANGELOG.md', 'README.md'],
         // assets: ['package.json'],
         // message: 'chore(release): ${nextRelease.version} [skip ci]',
+        // message: 'chore(release): set `package.json` to ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}',
         // eslint-disable-next-line no-template-curly-in-string
-        message: 'chore(release): set `package.json` to ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}',
+        message: 'chore(release): set `package.json` to ${nextRelease.version} [skip ci]',
       },
     ],
   ],
