@@ -1,7 +1,7 @@
 {
   "name": "grofcli",
   "description": "A sample CLI",
-  "version": "0.0.0-development",
+  "version": "1.2.0",
   "author": "Francois Groleau",
   "bin": {
     "hello": "./bin/run"
