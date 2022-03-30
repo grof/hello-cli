@@ -28,6 +28,7 @@ USAGE
 <!-- usagestop -->
 
 This is a new CLI...
+A new line.
 
 # Commands
 <!-- commands -->
