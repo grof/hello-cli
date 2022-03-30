@@ -14,7 +14,8 @@ module.exports = {
     '@semantic-release/npm',
     {
       path: '@semantic-release/git',
-      assets: ['package.json', 'CHANGELOG.md', 'README.md'],
+      // assets: ['package.json', 'CHANGELOG.md', 'README.md'],
+      assets: ['CHANGELOG.md', 'README.md'],
     },
   ],
   plugins: [
