@@ -15,11 +15,11 @@ A sample CLI
 # Usage
 <!-- usage -->
 ```sh-session
-$ npm install -g grofcli
+$ npm install -g @grof/grofcli
 $ hello COMMAND
 running command...
 $ hello (-v|--version|version)
-grofcli/1.5.0 linux-x64 node-v16.14.0
+@grof/grofcli/1.1.0 linux-x64 node-v16.14.0
 $ hello --help [COMMAND]
 USAGE
   $ hello COMMAND
@@ -54,7 +54,7 @@ EXAMPLE
   hello world from ./src/hello.ts!
 ```
 
-_See code: [src/commands/hello.ts](https://github.com/grof/hello-cli/blob/v1.5.0/src/commands/hello.ts)_
+_See code: [src/commands/hello.ts](https://github.com/grof/hello-cli/blob/v1.1.0/src/commands/hello.ts)_
 
 ## `hello help [COMMAND]`
 
