@@ -26,6 +26,9 @@ USAGE
 ...
 ```
 <!-- usagestop -->
+
+This is a new CLI.
+
 # Commands
 <!-- commands -->
 * [`hello hello [FILE]`](#hello-hello-file)
