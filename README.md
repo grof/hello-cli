@@ -27,7 +27,7 @@ USAGE
 ```
 <!-- usagestop -->
 
-This is a new CLI..
+This is a new CLI...
 
 # Commands
 <!-- commands -->
