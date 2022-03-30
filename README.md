@@ -29,6 +29,7 @@ USAGE
 
 This is a new CLI...
 A new line.
+New line 2.
 
 # Commands
 <!-- commands -->
