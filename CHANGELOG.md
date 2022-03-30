@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/grof/hello-cli/compare/v1.4.0...v1.5.0) (2022-03-30)
+
+
+### Features
+
+* more changes ([#10](https://github.com/grof/hello-cli/issues/10)) ([aabd97f](https://github.com/grof/hello-cli/commit/aabd97f26984e6ff0626c82ac89ccecb1630ca7a)), closes [#8](https://github.com/grof/hello-cli/issues/8) [#9](https://github.com/grof/hello-cli/issues/9) [#8](https://github.com/grof/hello-cli/issues/8) [#9](https://github.com/grof/hello-cli/issues/9)
+
 # [1.4.0](https://github.com/grof/hello-cli/compare/v1.3.0...v1.4.0) (2022-03-30)
 
 
