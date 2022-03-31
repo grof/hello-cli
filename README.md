@@ -19,7 +19,7 @@ $ npm install -g @fgroleau/grofcli
 $ hello COMMAND
 running command...
 $ hello (-v|--version|version)
-@fgroleau/grofcli/1.2.0 linux-x64 node-v16.14.0
+@fgroleau/grofcli/1.3.0-beta.2 linux-x64 node-v16.14.0
 $ hello --help [COMMAND]
 USAGE
   $ hello COMMAND
@@ -54,7 +54,7 @@ EXAMPLE
   hello world from ./src/hello.ts!
 ```
 
-_See code: [src/commands/hello.ts](https://github.com/grof/hello-cli/blob/v1.2.0/src/commands/hello.ts)_
+_See code: [src/commands/hello.ts](https://github.com/grof/hello-cli/blob/v1.3.0-beta.2/src/commands/hello.ts)_
 
 ## `hello help [COMMAND]`
 
