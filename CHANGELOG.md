@@ -1,3 +1,13 @@
+# [1.2.0](https://github.com/grof/hello-cli/compare/v1.1.0...v1.2.0) (2022-03-31)
+
+
+### Features
+
+* add feature A ([b468e6a](https://github.com/grof/hello-cli/commit/b468e6a8aa5ce59bea177cbb85359babe3a67e51))
+* add features A, B and C ([#24](https://github.com/grof/hello-cli/issues/24)) ([da5c167](https://github.com/grof/hello-cli/commit/da5c167aadd10f43c5d072a48fbe325954d2df3d)), closes [#16](https://github.com/grof/hello-cli/issues/16) [#20](https://github.com/grof/hello-cli/issues/20) [#21](https://github.com/grof/hello-cli/issues/21) [#23](https://github.com/grof/hello-cli/issues/23)
+* introduce features A, B and C ([#25](https://github.com/grof/hello-cli/issues/25)) ([8283c30](https://github.com/grof/hello-cli/commit/8283c303d36fe4c53b4e82f54037bf82135f0171)), closes [#16](https://github.com/grof/hello-cli/issues/16) [#20](https://github.com/grof/hello-cli/issues/20) [#21](https://github.com/grof/hello-cli/issues/21) [#23](https://github.com/grof/hello-cli/issues/23)
+* new feature C ([#22](https://github.com/grof/hello-cli/issues/22)) ([06b12da](https://github.com/grof/hello-cli/commit/06b12da707b65e364a876fd07bdf97b46f9a8cd4)), closes [#16](https://github.com/grof/hello-cli/issues/16) [#20](https://github.com/grof/hello-cli/issues/20) [#21](https://github.com/grof/hello-cli/issues/21)
+
 # [1.2.0-beta.4](https://github.com/grof/hello-cli/compare/v1.2.0-beta.3...v1.2.0-beta.4) (2022-03-31)
 
 
