@@ -38,3 +38,5 @@ hello world from ./src/hello.ts!
 
 // add feature A on beta branch
 // add feature B on beta branch
+// add feature C on beta branch
+
