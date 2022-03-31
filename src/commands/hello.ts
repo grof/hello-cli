@@ -31,3 +31,4 @@ hello world from ./src/hello.ts!
 }
 
 // comment 1
+// comment 2
