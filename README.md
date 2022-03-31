@@ -15,11 +15,11 @@ A sample CLI
 # Usage
 <!-- usage -->
 ```sh-session
-$ npm install -g @grof/grofcli
+$ npm install -g @fgroleau/grofcli
 $ hello COMMAND
 running command...
 $ hello (-v|--version|version)
-@grof/grofcli/1.1.0 linux-x64 node-v16.14.0
+@fgroleau/grofcli/1.1.0 linux-x64 node-v16.14.0
 $ hello --help [COMMAND]
 USAGE
   $ hello COMMAND
