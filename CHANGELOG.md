@@ -1,3 +1,10 @@
+# [1.2.0-beta.2](https://github.com/grof/hello-cli/compare/v1.2.0-beta.1...v1.2.0-beta.2) (2022-03-31)
+
+
+### Features
+
+* new feature B ([#21](https://github.com/grof/hello-cli/issues/21)) ([ec7a7df](https://github.com/grof/hello-cli/commit/ec7a7dfc4d4bcd911e32fc1dc88679aca42ce6bd))
+
 # [1.2.0-beta.1](https://github.com/grof/hello-cli/compare/v1.1.0...v1.2.0-beta.1) (2022-03-31)
 
 
