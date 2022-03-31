@@ -1,3 +1,17 @@
+# [1.3.0-beta.4](https://github.com/grof/hello-cli/compare/v1.3.0-beta.3...v1.3.0-beta.4) (2022-03-31)
+
+
+### Features
+
+* add feature D from beta ([#31](https://github.com/grof/hello-cli/issues/31)) ([baf3f75](https://github.com/grof/hello-cli/commit/baf3f7596a761f9d3bac06909fd083d08e0b0f62))
+
+# [1.3.0-beta.3](https://github.com/grof/hello-cli/compare/v1.3.0-beta.2...v1.3.0-beta.3) (2022-03-31)
+
+
+### Features
+
+* add features A, B and C ([#30](https://github.com/grof/hello-cli/issues/30)) ([3277176](https://github.com/grof/hello-cli/commit/32771760ddc386a7619cfd283957c3747b356ebb)), closes [#27](https://github.com/grof/hello-cli/issues/27) [#28](https://github.com/grof/hello-cli/issues/28) [#29](https://github.com/grof/hello-cli/issues/29)
+
 # [1.3.0-beta.2](https://github.com/grof/hello-cli/compare/v1.3.0-beta.1...v1.3.0-beta.2) (2022-03-31)
 
 
