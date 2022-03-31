@@ -1,5 +1,5 @@
 {
-  "name": "grofcli",
+  "name": "@fgroleau/grofcli",
   "description": "A sample CLI",
   "version": "0.0.0-semantically-released",
   "author": "Francois Groleau",
@@ -58,6 +58,9 @@
     "plugins": [
       "@oclif/plugin-help"
     ]
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "repository": "grof/hello-cli",
   "scripts": {
